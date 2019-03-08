@@ -1,5 +1,6 @@
 # mantenimientoweb
-Microsistema que realice por el 2016 por una solicitud que recibí. Posiblemente, llevaré a cabo un rework del mismo en Bootstrap 4, Codeigniter 3.1.10 y MariaDB 10.
+Microsistema que realice por el 2016 por una solicitud que recibí. Desarrollador con Codeigniter y Bootstrap 3.
+Posiblemente, llevaré a cabo un rework del mismo en el futuro y completar sus circuitos.
 
 ## Requisitos
 * PHP 5.6.
